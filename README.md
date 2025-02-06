@@ -43,13 +43,6 @@ A system consists of 9 electrical circuits that emit encoded signals. If at leas
 
 By setting the seed to **2255**, simulate **150** realizations of the system and compute the proportion of instances in which a warning was triggered in a system that was not turned off.
 
-Select the correct answer from the following options:
-- 0.009
-- 0.33
-- 0.90
-- 0.38
-- 0.75
-
 ---
 
 ## Question 5
